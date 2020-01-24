@@ -1,2 +1,5 @@
 name,quadrant,ring,isNew,description
-Container security scanning,Techniques,Adopt,TRUE,<p>The continued adoption of containers for deployments, especially <a href="https://www.thoughtworks.com/radar/platforms/docker">Docker</a>, has made <strong>container security scanning</strong> a must-have technique and we've moved this technique into Adopt to reflect that. Specifically, containers introduced a new path for security issues; it's vital that you use tools to scan and check containers during deployment. We prefer using automated scanning tools that run as part of the deployment pipeline.</p>
+Container security scanning,Tools,Adopt,TRUE,<p>The continued adoption of containers for deployments, especially <a href="https://www.thoughtworks.com/radar/platforms/docker">Docker</a>, has made <strong>container security scanning</strong> a must-have technique and we've moved this technique into Adopt to reflect that. Specifically, containers introduced a new path for security issues; it's vital that you use tools to scan and check containers during deployment. We prefer using automated scanning tools that run as part of the deployment pipeline.</p>
+Pacman,Platforms,Adopt,TRUE,<p>Hugo.</p>
+Container security scanning,Techniques,Adopt,TRUE,<p>Helga</p>
+Container security scanning,Languages & frameworks,Adopt,TRUE,<p>Hannibal</p>
